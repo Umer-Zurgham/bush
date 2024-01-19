@@ -1,0 +1,21 @@
+*{
+    padding: 20px;
+}
+.user{
+    background-color: #f39f5a;
+    padding: 20px;
+    border-radius: 50px;
+}
+.img2{
+    border-radius: 20px;
+}
+.btn{
+    background-color: #f9ab6a;
+    border-radius: 50px;
+    border: none;
+    transition: all 0.3s;
+}
+.btn:hover{
+    scale: 1.1;
+    background-color: #db8b4a;
+}
